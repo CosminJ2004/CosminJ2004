@@ -23,7 +23,7 @@ I'm Cosmin, a first-year Computer Science student at University of Bucharest.
 ## Connect with Me
 
 - **GitHub:** [CosminJ2004](https://github.com/CosminJ2004)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/jalba-cosmin-4595372a7)
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/jalba-cosmin-4595372a7)
 
 ## Languages and Tools
 
