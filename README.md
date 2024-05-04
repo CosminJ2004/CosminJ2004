@@ -6,7 +6,7 @@ I'm Cosmin, a first-year Computer Science student at University of Bucharest.
 
 📫 **Reach Me:** (jalbacosmin45@gmail.com)
 
-📄 **Resume:** [Check out my resume]([https://your-resume-url.com](https://github.com/CosminJ2004/Site_-personal))
+📄 **Resume:** [Check out my resume]((https://github.com/CosminJ2004/Site_-personal))
 
 ---
 
